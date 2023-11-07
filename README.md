@@ -1,5 +1,5 @@
 ### Hi there, i`m Allan 👋
-## I`m a Mechanical engineer transitioning to a career in the data field
+## I`m a Mechanical engineer transitioning to a career in data analysis
 
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: Love anime, video game and workout
