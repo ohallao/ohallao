@@ -34,10 +34,12 @@
 <details open>
   <summary><h1>📜 Certificates</h1></summary>
 
-https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+[![Coursera](https://img.shields.io/badge/Google%20Data%20Analytics-0056D2?logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/37JRG36DEYD3)
 
 <details open>
   <summary><h1>📩 Contact</h1></summary>
 
-https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Outlook](https://img.shields.io/badge/santiagofallan@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:santiagofallan@outlook.com)
+[![Linkedin](https://img.shields.io/badge/Allan%20Santiago-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-santiago/)
+
+
