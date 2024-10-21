@@ -3,14 +3,11 @@
 
   🌱 I'm currently enhancing my Python skills
   ⚡ Fun fact: Love anime, video game and workout
-  🏆 Goals:  
-- Become a Data Scientist working on predictive analytics and business intelligence.  
-- Develop advanced machine learning skills.
+  🏆 Goals: Become a Data Scientist working on predictive analytics and business intelligence.
+            - Develop advanced machine learning skills.
   📊 Projects
-- Budget Flow: An interactive app for monthly and annual cash flow projections built with Streamlit.
-- Customer Segmentation: RFV analysis with Python and Streamlit, applying clustering techniques.
-
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+     - Budget Flow: An interactive app for monthly and annual cash flow projections built with Streamlit.
+    - Customer Segmentation: RFV analysis with Python and Streamlit, applying clustering techniques.
 
 
   <details open>
