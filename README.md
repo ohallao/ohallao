@@ -1,9 +1,17 @@
 ### Hi there, i`m Allan 👋
 ## I`m a Mechanical engineer transitioning to a career in data analysis
 
-- 🌱 I’m currently learning Python
-- ⚡ Fun fact: Love anime, video game and workout
-- 🥅 Goals: Be a Data Scientist
+  🌱 I'm currently enhancing my Python skills
+  ⚡ Fun fact: Love anime, video game and workout
+  🏆 Goals:  
+- Become a Data Scientist working on predictive analytics and business intelligence.  
+- Develop advanced machine learning skills.
+  📊 Projects
+- Budget Flow: An interactive app for monthly and annual cash flow projections built with Streamlit.
+- Customer Segmentation: RFV analysis with Python and Streamlit, applying clustering techniques.
+
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+
 
   <details open>
   <summary>
